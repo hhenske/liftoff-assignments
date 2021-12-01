@@ -25,5 +25,5 @@ creating/hosting an api or using one to send/store info
 GitHub workflow for groups
 
 ### Project Tracker
-
-https://trello.com/b/7goeSEx2
+main board: https://trello.com/b/7goeSEx2/main-board
+(personal: https://trello.com/b/7goeSEx2 )
