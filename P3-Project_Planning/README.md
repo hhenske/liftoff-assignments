@@ -18,4 +18,4 @@ https://trello.com/b/7goeSEx2/main-board
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/gojanedoe/yoga-routine-builder
